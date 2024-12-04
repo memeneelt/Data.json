@@ -1,0 +1,90 @@
+{
+    "journal": {
+      "nomJournal": "Art & Style",
+      "phraseAccroche": "L'alliance de l'expression artistique et des tendances mode",
+      "texteAppelAction": "Rejoignez notre communauté pour explorer l'inspiration entre art et mode",
+      "articlePrincipal": {
+        "titre": "Collaboration Dior x Daniel Arsham : Quand l'art rencontre la couture",
+        "description": "Une collection audacieuse qui brouille les frontières entre sculptures modernes et haute couture.",
+        "date": "1er Décembre 2024",
+        "theme": "Collaboration",
+        "image": "images/skyryedesign.png"
+      },
+      "articles": [
+        {
+          "titre": "Les expositions mode qui marquent 2024",
+          "date": "28 Novembre 2024",
+          "theme": "Expositions",
+          "image": "./images/EdenG.png"
+        },
+        {
+          "titre": "Les créations textiles de Yayoi Kusama : Un monde de pois et de couleurs",
+          "date": "20 Novembre 2024",
+          "theme": "Créateurs",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "Comment l'art abstrait inspire les tendances automne/hiver",
+          "date": "15 Novembre 2024",
+          "theme": "Tendances",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "Basquiat et la mode : Un héritage intemporel",
+          "date": "10 Novembre 2024",
+          "theme": "Icônes",
+          "image": "images/image.png"
+        },
+        {
+          "titre": "Quand les musées deviennent des défilés : Une nouvelle scène pour les créateurs",
+          "date": "5 Novembre 2024",
+          "theme": "Innovation",
+          "image": "images/image.png"
+        }
+      ],
+      "themes": [
+        {
+          "nom": "Collaboration",
+          "description": "Les partenariats entre artistes et créateurs de mode qui redéfinissent l'industrie."
+        },
+        {
+          "nom": "Expositions",
+          "description": "Les galeries et musées où la mode et l'art se rencontrent."
+        },
+        {
+          "nom": "Créateurs",
+          "description": "Les artistes et designers qui repoussent les limites de l'esthétique."
+        },
+        {
+          "nom": "Tendances",
+          "description": "Les inspirations artistiques qui façonnent les collections mode."
+        },
+        {
+          "nom": "Icônes",
+          "description": "Des figures emblématiques qui ont marqué l'art et la mode."
+        },
+        {
+          "nom": "Innovation",
+          "description": "Les nouvelles façons de présenter et de penser la mode dans un cadre artistique."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenom": "Camille",
+          "typeExperience": "Historienne de l'art",
+          "presentation": "Passionnée par les croisements entre art et mode, je décrypte les influences culturelles derrière les créations."
+        },
+        {
+          "prenom": "Maxime",
+          "typeExperience": "Designer textile",
+          "presentation": "Je partage ma vision sur la manière dont l'art inspire les techniques et les matériaux dans la mode."
+        },
+        {
+          "prenom": "Sophia",
+          "typeExperience": "Curatrice mode et art",
+          "presentation": "En tant que curatrice, je sélectionne les œuvres et les créations qui captivent et racontent une histoire unique."
+        }
+      ]
+    }
+  }
+  
