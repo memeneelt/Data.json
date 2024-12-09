@@ -1,6 +1,6 @@
 {
     "journal": {
-      "nomJournal": "Art & Style",
+      "nomJournal": "BIENVENUE DANS ART & STYLE",
       "phraseAccroche": "L'alliance de l'expression artistique et des tendances mode",
       "texteAppelAction": "Rejoignez notre communauté pour explorer l'inspiration entre art et mode",
       "articlePrincipal": {
@@ -8,38 +8,38 @@
         "description": "Une collection audacieuse qui brouille les frontières entre sculptures modernes et haute couture.",
         "date": "1er Décembre 2024",
         "theme": "Collaboration",
-        "image": "images/skyryedesign.png"
+        "image": "images/DiorXdaniel.png"
       },
       "articles": [
         {
           "titre": "Les expositions mode qui marquent 2024",
           "date": "28 Novembre 2024",
           "theme": "Expositions",
-          "image": "./images/EdenG.png"
+          "image": "images/ExposMode.png"
         },
         {
           "titre": "Les créations textiles de Yayoi Kusama : Un monde de pois et de couleurs",
           "date": "20 Novembre 2024",
           "theme": "Créateurs",
-          "image": "images/image.png"
+          "image": "images/YayoiKusamaLV.png"
         },
         {
           "titre": "Comment l'art abstrait inspire les tendances automne/hiver",
           "date": "15 Novembre 2024",
           "theme": "Tendances",
-          "image": "images/image.png"
+          "image": "images/abtraitTendance.png"
         },
         {
           "titre": "Basquiat et la mode : Un héritage intemporel",
           "date": "10 Novembre 2024",
           "theme": "Icônes",
-          "image": "images/image.png"
+          "image": "images/BasquiatIntenporel.png"
         },
         {
           "titre": "Quand les musées deviennent des défilés : Une nouvelle scène pour les créateurs",
           "date": "5 Novembre 2024",
           "theme": "Innovation",
-          "image": "images/image.png"
+          "image": "images/FashionWKCmusées.png"
         }
       ],
       "themes": [

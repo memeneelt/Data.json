@@ -8,35 +8,78 @@
 </head>
 <body>
    <!-- Début HTML -->
-   <nav>
-      <div id="logo">
-          <img src="images/logo.svg" alt="logo">
-          <h2>Art & Style</h2>
-      </div>
-      <ul id="navThemes">
-          <!-- Les éléments de navigation seront générés dynamiquement -->
-      </ul>
-      <div class="button-container">
-          <a class="button primary" href="#">Sabonner</a>
-         <img src="images/avatar.jpg" alt="avatar">
-      </div>
-  </nav>
 
-  <header>
-      <p>L'alliance de l'expression artistique et des tendances mode</p>
-      <button onclick="alert('Rejoignez notre communauté pour explorer l\'inspiration entre art et mode')">Rejoignez notre communauté</button>
-  </header>
-  
-  <!-- Section pour l'article principal -->
+   <nav>
+    <div id="logo">
+        <img src="images/logo.svg" alt="logo">
+        <h2>Art & Style</h2>
+        <ul id="navThemes">
+          <li><a href="#">Theme 1</a></li>
+          <li><a href="#">Theme 2</a></li>
+          <li><a href="#">Theme 3</a></li>
+          <li><a href="#">Theme 4</a></li>
+        </ul>
+    </div>
+    <div class="button-container">
+        <a class="button primary" href="#">S'abonner</a>
+       <img src="images/avatar.jpg" alt="avatar">
+    </div>
+</nav>
+<header>
+  <h1>BIENVENUE DANS ART & STYLE</h1>
+  <p>L'alliance de l'expression artistique et des tendances mode</p>
+  <button onclick="alert('Rejoignez notre communauté pour explorer l\'inspiration entre art et mode')">Rejoignez notre communauté</button>
+</header>
+<div id="nav-image">
   <section id="article-principal"></section>
-  
-  <!-- Section pour les autres articles -->
-  <section id="articles"></section>
-  
+</div>
+<!-- Section pour l'article principal -->
+
+
+<!-- Section pour les autres articles -->
+<section id="articles">
+<h2>Autres articles</h2></section>
+
+
+<!-- Section pour les auteurs -->
+<section id="auteurs">
+  <div id="title-auteurs">
+      <h3>Nos auteurs</h3>
+  </div>
+  <div class="auteurs-container">
+      <div class="auteur-card">
+          <p>Passionnée par les croisements entre art et mode, je décrypte les influences culturelles derrière les créations.</p>
+          <div class="auteur-avatar"><img src="images/avatar1.png" alt="Camille">
+              <div class="auteur-info">
+                  <p>Camille</p>
+                  <p>Historienne de l'art</p>
+              </div>
+          </div>
+      </div>
+      <div class="auteur-card">
+          <p>Je partage ma vision sur la manière dont l'art inspire les techniques et les matériaux dans la mode.</p>
+          <div class="auteur-avatar"><img src="images/avatar2.png" alt="Maxime">
+              <div class="auteur-info">
+                  <p>Maxime</p>
+                  <p>Designer textile</p>
+              </div>
+          </div>
+      </div>
+      <div class="auteur-card">
+          <p>En tant que curatrice, je sélectionne les œuvres et les créations qui captivent et racontent une histoire unique.</p>
+          <div class="auteur-avatar"><img src="images/avatar3.png" alt="Sophia">
+              <div class="auteur-info">
+                  <p>Sophia</p>
+                  <p>Curatrice mode et art</p>
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+
   <footer>
       <p>&copy; <strong>Art & Style</strong> 2024</p>
   </footer>
- 
   <script src="script.js"></script>
 </body>
 </html>
